@@ -25,7 +25,7 @@ h1{
 }
 
 .b2{
-  color:  rgba(90,140,60,1);
+  color:  #674e3a52;
 }
 
 h1 {
@@ -142,6 +142,7 @@ h1 {
 .wealth-row {
   display: inline-flex;
   background-color: #91e490;
+   
 }
 .arrow {
   margin-left: -6px;
