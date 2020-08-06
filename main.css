@@ -138,10 +138,12 @@ h1 {
   line-height: 22px;
 }
 
-/*Bachground1*/
+/*Background111*/
 .wealth-row {
   display: inline-flex;
   background-color: #91e490;
+  height: 514px;
+
    
 }
 .arrow {
