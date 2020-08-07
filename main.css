@@ -873,3 +873,7 @@ h1 {
     display: none;
   }
 }
+
+a: visited{
+  color: #7db17d;
+}
